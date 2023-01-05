@@ -1,3 +1,3 @@
 # Modern-PHP
 Modern PHP Tutorial
-The current stage is addin data to mysql
+The current stage is adding data to mysql
